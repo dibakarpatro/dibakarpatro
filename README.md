@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dibakarpatro
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Programs
+- 👀 I’m interested in Software developer
+- 🌱 I’m currently learning Programming languages
 - 📫 How to reach me imaginefx7z@gmail.com
 
 <!---
