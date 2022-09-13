@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dibakarpatro
-- 👀 I’m interested in Software developer
+- 👀 I want to be a Software developer
 - 🌱 I’m currently learning Programming languages
-- 📫 How to reach me imaginefx7z@gmail.com
+- 📫 want to reach me imaginefx7z@gmail.com
 
 <!---
 dibakarpatro/dibakarpatro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
